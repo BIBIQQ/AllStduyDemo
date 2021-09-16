@@ -7,5 +7,6 @@ public class DemoArray01 {
             System.out.print(arr[i]+" ");
 
         }
+
     }
 }
