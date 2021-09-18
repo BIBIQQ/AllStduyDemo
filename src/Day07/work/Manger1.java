@@ -6,16 +6,16 @@ package Day07.work;
  * @TIME:19:19
  */
 //定义项目经理类Manager。属性：姓名name，工号id，工资salary，奖金bonus。行为：工作work()
-public class Manger {
+public class Manger1 {
     private String name;
     private int id;
     private double salary;
     private int bonus;
 
-    public Manger() {
+    public Manger1() {
     }
 
-    public Manger(String name, int id, double salary, int bonus) {
+    public Manger1(String name, int id, double salary, int bonus) {
         this.name = name;
         this.id = id;
         this.salary = salary;
@@ -59,4 +59,6 @@ public class Manger {
                 salary + "奖金为" + bonus + "的项目经理正在努力的做着管" +
                 "理工作,分配任务,检查员工提交上来的代码");
     }
+
+
 }

@@ -7,7 +7,7 @@ package Day07.work;
  */
 public class DemoProjectTest {
     public static void main(String[] args) {
-        Manger mr = new Manger("张三",123,15000,6000);
+        Manger1 mr = new Manger1("张三",123,15000,6000);
         Coder itman = new Coder();
         itman.setName("王五");
         itman.setId(135);
