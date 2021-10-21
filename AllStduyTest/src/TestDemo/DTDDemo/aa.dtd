@@ -1,0 +1,6 @@
+﻿        <!--<!ELEMENT> 可以定义元素-->
+        <!ELEMENT persong (person)>
+        <!--限制person标签下只能有name和age-->
+        <!ELEMENT person (name,age)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>

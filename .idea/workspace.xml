@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33961a0f-1ca7-43d4-b449-0f462d2b5c59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/DemoArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/DemoArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/DemoArray01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day04/DemoArray01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoBoth.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoBoth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoMethod01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoMethod01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoMethod02.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoMethod02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoOverload01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day05/DemoOverload01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/DemoArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/DemoArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/DemoChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/DemoChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoArrChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoArrChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoArrPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoArrPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoDieRa.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoDieRa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day06/work/DemoTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/DemoObject01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/DemoObject01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/Coder.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/Coder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/DemoPhoneBuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/DemoPhoneBuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/DemoProjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/DemoProjectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/GirlFirend.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/GirlFirend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/GirlFirendTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/GirlFirendTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/Manger1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/Manger1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/PhoneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day07/work/PhoneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoString01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoString01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoString02.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoString02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoStringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoStringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoStringChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoStringChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoTel.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/DemoTel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/pack/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/pack/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoArr01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoArr01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoBSNCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoBSNCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoBSNSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoBSNSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoReplace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoRever.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoRever.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoSBArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoSBArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day08/work/DemoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Dao/StuDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Dao/StuDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Dao/TeaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Dao/TeaDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Enter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Enter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Jiemian/StudentPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Jiemian/StudentPass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Jiemian/TeacherPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Jiemian/TeacherPass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Waiter/StuWaiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Waiter/StuWaiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Waiter/TeaWaiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Waiter/TeaWaiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Xinxi/NewStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Xinxi/NewStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Xinxi/NewTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/Manger2/Xinxi/NewTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/BaseStudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/BaseStudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/OtherStudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/OtherStudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/controller/TeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/dao/TeacherDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/dao/TeacherDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/domain/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/domain/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/entry/InfoMangerEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/entry/InfoMangerEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/service/StudentServic.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/service/StudentServic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/service/TeacherServic.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day10/pack/edu/info/manager/service/TeacherServic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoFu.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoFu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/Wirter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/Wirter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/WriteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/WriteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/write01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoPack/write01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoYe.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoYe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoZi.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/DemoZi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/Humen.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/Humen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test01/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/Humen.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/Humen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day11/Test/test02/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/Inter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/InterA.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/InterA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/InterB.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/InterB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test01/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/Test/Test02/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/star_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test01/star_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test02/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Boy.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Boy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/ClassRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/ClassRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Compere.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Compere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Girl.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Girl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test03/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/ItMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/ItMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Manage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Manage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test04/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/EGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/EGoods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/GouWuChe.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/GouWuChe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test05/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/EGOODs.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/EGOODs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/PlayGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/PlayGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Test06.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day12/homework/Test06/Test06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Cuter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Cuter$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Cuter$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Cuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Cuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoApiClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoApiClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoApiClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoApiClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoOutInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoOutInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoPrivtaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoPrivtaClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoStaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemoStaticClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemomethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemomethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/DemonullClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Inter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Inter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Inter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Newouter$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Newouter$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Newouter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Newouter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Out$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Out$1Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Out.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Swimming.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoClass/Swimming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd02.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd03.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambd03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/DemoLambda01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/RandomNumHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/RandomNumHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/String01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/Swimming.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/DemoTest/DemoLambda/Swimming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/Inte.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/Inte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work01/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/DemoIntface$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/DemoIntface$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/DemoIntface.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/DemoIntface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day13/Work/Work02/Inter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoArraysSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoArraysSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoParseInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoParseInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoQuiteSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoQuiteSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoString_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/DemoString_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Demo_half.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Demo_half.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/MybubbleSortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/MybubbleSortDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Object_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Object_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Teasclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Teasclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/TestBigDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/Demo/TestBigDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/DemoArrays/DemoSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/DemoArrays/DemoSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/DemoBigDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/DemoBigDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/String_int_add/text01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/String_int_add/text01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/Test_AllString/StringStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/Test_AllString/StringStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/Test_AllString/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/Test_AllString/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work01/DoubleBigDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work01/DoubleBigDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work02/AverageDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work02/AverageDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work02/TestStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day14/HomWork/work02/TestStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/AgeOutOfBoundsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/AgeOutOfBoundsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoParseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoParseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoTimeBetween.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoTimeBetween.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoTimeDuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemoTimeDuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemotryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/DemotryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/JDK8DateDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/JDK8DateDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/LocalDateTimeDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/LocalDateTimeDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/LocalDateTime_date_time.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/LocalDateTime_date_time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/String_Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/String_Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/TestTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/TestTryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/TryStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/TryStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/method2.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Day15/Demo/method2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/StudentIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/StudentIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Arrsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Arrsum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoArrList.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoArrList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoChoose.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoChoose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoRemove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoSinger.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoSinger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoStaticPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoStaticPack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoTram.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/DemoTram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Singer.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Singer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/StuMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/StuMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Tram.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/Test/Tram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/pack/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/out/production/DemoPackage/pack/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/src/Day08/pack/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/src/Day08/pack/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllStduyDemo/src/Day14/HomWork/Test_AllString/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllStduyDemo/src/Day14/HomWork/Test_AllString/test01.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1567503109">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AllStduyDemo" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="215" />
+    <option name="y" value="-18" />
+    <option name="width" value="1181" />
+    <option name="height" value="547" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634216812246" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33961a0f-1ca7-43d4-b449-0f462d2b5c59" name="Default Changelist" comment="" />
+      <created>1634216765827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634216765827</updated>
+      <workItem from="1634216770033" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14933333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

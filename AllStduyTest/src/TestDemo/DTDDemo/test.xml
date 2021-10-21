@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--导入本地dtd文件-->
+<!--！DOCTYPE 根元素名称 SYSTEM 'dtd文件路径'-->
+<!--！DOCTYPE 根元素名称 dtd文件名字 'dtd的url'-->
+<!DOCTYPE persong SYSTEM 'aa.dtd'>
+<persong>
+    <person>
+        <name>张三</name>
+        <age>19</age>
+    </person>
+</persong>

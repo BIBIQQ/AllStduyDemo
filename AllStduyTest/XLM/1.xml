@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "UTF-8" ?>
+<config>
+    <student>
+        <name>张三</name>
+        <age>张三</age>
+        <message>sdad $g; </message>
+        <body>[!body[adqwdq]]</body>
+    </student>
+
+
+
+</config>

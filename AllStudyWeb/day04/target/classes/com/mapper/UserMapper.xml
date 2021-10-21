@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--
+namepace:名称空间
+注意点：namepace 必须 UserMapper全路径一致
+注意点：接口中的方法名必须和id标识一致
+-->
+<mapper namespace="com.mapper.UserMapper">
+    <!--
+    select 执行的查询
+    id  唯一标识
+    namepace+id = sql 的绝对路径
+    resultType 返回值的数据
+    -->
+    <select id="selectAll" resultType="com.pojo.User">
+       select * from tb_user ;
+  </select>
+</mapper>
