@@ -14,7 +14,7 @@ public class Brand {
      * */
     //id 主键
     private Integer id;
-    //品牌名称
+    //商品详情
     private String brandName;
     //企业名称
     private String companyName;

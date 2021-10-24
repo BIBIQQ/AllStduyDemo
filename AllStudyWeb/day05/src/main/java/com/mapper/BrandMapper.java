@@ -35,6 +35,7 @@ public interface BrandMapper {
     //  删除
     void deletById(int id);
     //  批量删除
+    //  可以是数组也可以是集合
     void deletByIds(@Param("ids")int[] ids);
 
     @Select("select * from tb_brand where id = #{id}")

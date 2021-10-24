@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.BrandMapper">
+    <!--
+    订单列表：
+        多表
+        订单 tb_message  商品 tb_brands  商品类别 brand_sort 用户 tb_user
+        查询：动态多条件  订单状态  分页
+        修改： 批量修改发货状态
+        删除：批量删除
+        添加; 单条  多条添加
+     数据库字段列表
+       订单号 order_id   商品数量 brand_num  商品价格  price  商品留言 message  购买时间 buy_time     支付类别 defray   商品状况 status
+       商品详情 brand_id
+       商品 tb_brands
+       主键 bid 商品名称 brand_name 分类bid sort_id  商品尺寸  brand_size 商品风格 brand_style 单价 brand_price
+       分类  brand_sort
+       主键 sid   分类 sort
+       用户信息 user_id
+       主键 uid 用户姓名 user_name 用户电话  user_call
+    -->
+    <resultMap id="messageResultMap" type="com.pojo.Brand">
+        <id property="orderId" column="order_id"></id>
+        <result property="brandNum" column="brand_num"></result>
+        <result property="buyTime" column="buy_time"></result>
+        <result property="brandId" column="brand_id"></result>
+        <result property="userId" column="user_id"></result>
+        <result property="orderId" column="order_id"></result>
+        <result property="price" column="price"></result>
+        <result property="message" column="message"></result>
+        <result property="defray" column="defray"></result>
+        <result property="status" column="status"></result>
+
+        <association property="brands" javaType="Brands">
+            <id property="bid" column="bid"></id>
+            <result property="sortId" column="sort_id"></result>
+            <result property="brandName" column="brand_name"></result>
+            <result property="brandSize" column="brand_size"></result>
+            <result property="brandStyle" column="brand_style"></result>
+            <result property="brandPrice" column="brand_price"></result>
+            <collection property="brandsSort" ofType="BrandsSort">
+                <id property="sid" column="sid"></id>
+                <result property="sort" column="sort"></result>
+            </collection>
+        </association>
+
+        <association property="user" javaType="User">
+            <id property="uid" column="uid"></id>
+            <result property="userName" column="user_name"></result>
+            <result property="userCall" column="user_call"></result>
+        </association>
+
+    </resultMap>
+
+    <!--分页-->
+    <select id="limit" resultMap="messageResultMap">
+   SELECT *  FROM tb_message as m,tb_brands as b,tb_user as u,brand_sort as bs WHERE m.brand_id=b.bid AND m.user_id = u.uid AND bs.sid = b.sort_id LIMIT #{page},#{pageNum}
+    </select>
+    <!--查询订单状态-->
+    <select id="Bystatus" resultMap="messageResultMap">
+        SELECT *  FROM tb_message as m,tb_brands as b,tb_user as u,brand_sort as bs WHERE m.brand_id=b.bid AND m.user_id = u.uid AND bs.sid = b.sort_id   and status = #{status}
+    </select>
+    <!--搜索所有-->
+    <select id="Byall" resultMap="messageResultMap">
+        SELECT *  FROM tb_message as m,tb_brands as b,tb_user as u,brand_sort as bs WHERE m.brand_id=b.bid AND m.user_id = u.uid AND bs.sid = b.sort_id
+    </select>
+    <!--动态多条件-->
+    <select id="Bymuch" resultMap="messageResultMap">
+        SELECT * FROM (SELECT * FROM tb_message as m,tb_brands as b,tb_user as u,brand_sort as bs WHERE m.brand_id=b.bid
+        AND m.user_id = u.uid AND bs.sid = b.sort_id ) a
+        <where>
+            <if test="userCall != null and userCall != '' ">
+                and a.user_call = #{userCall}
+            </if>
+            <if test="userName != null and userName != '' ">
+                and a.user_name = #{userName}
+            </if>
+            <if test="starTime != null and starTime != '' and endTime != null and endTime != '' ">
+                and a.buy_time BETWEEN #{starTime} and #{endTime}
+            </if>
+            <if test="brandName != null and brandName != '' ">
+                and a.brand_name = #{brandName}
+            </if>
+            <if test="bid != null and bid != '' ">
+                and a.bid = #{bid}
+            </if>
+            <if test="defray != null  ">
+                and a.defray = #{defray}
+            </if>
+            <if test="orderId != null and orderId != '' ">
+                and a.order_id = #{orderId}
+            </if>
+            <if test="message != null and message != '' ">
+                and a.message = #{message}
+            </if>
+
+        </where>
+
+    </select>
+    <!--批量发货-->
+    <update id="setStatus" >
+
+    </update>
+
+</mapper>

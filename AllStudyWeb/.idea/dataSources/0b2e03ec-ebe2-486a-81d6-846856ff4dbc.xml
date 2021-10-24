@@ -13,24 +13,24 @@
     <schema id="3" parent="1" name="day03_jdbc">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="4" parent="1" name="day04_mybatis">
+    <schema id="4" parent="1" name="day04_mapper">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="5" parent="1" name="day04_mybatis">
       <Current>1</Current>
       <Visible>1</Visible>
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="5" parent="1" name="demotest">
+    <schema id="6" parent="1" name="demotest">
       <Collation>utf8_danish_ci</Collation>
     </schema>
-    <schema id="6" parent="1" name="information_schema">
+    <schema id="7" parent="1" name="information_schema">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="7" parent="1" name="mysql">
+    <schema id="8" parent="1" name="mysql">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="8" parent="1" name="performance_schema">
-      <Collation>utf8_general_ci</Collation>
-    </schema>
-    <schema id="9" parent="1" name="test">
+    <schema id="9" parent="1" name="performance_schema">
       <Collation>utf8_general_ci</Collation>
     </schema>
     <collation id="10" parent="1" name="armscii8_bin">
@@ -821,7 +821,7 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="207" parent="4" name="tb_user"/>
+    <table id="207" parent="5" name="tb_user"/>
     <column id="208" parent="207" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>

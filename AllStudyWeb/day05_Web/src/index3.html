@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			table{
+				margin-top: 150px;
+				animation: spin 0.01ms linear infinite;
+			}
+			/* 动画代码 */
+			@keyframes spin {
+			  	0%   {transform:rotate(0deg);}
+				100% {transform:rotate(360deg);}
+			}	
+		</style>
+	</head>
+	<body>
+		<center>
+		<table border="1px" cellpadding="0" cellspacing="0">
+			<tr height="100px" >
+				<td width="100px" bgcolor="aqua" rowspan="2"></td>
+				<td width="100px" bgcolor="#000000" colspan="2"></td>
+				<!--<td width="100px" bgcolor="#FFFF00"></td>-->
+			</tr>
+			<tr height="100px" >
+				<!--<td width="100px" bgcolor="aqua"></td>-->
+				<td width="100px" bgcolor="aquamarine"></td>
+				<td width="100px" bgcolor="blueviolet" rowspan="2"></td>
+			</tr>
+			<tr height="100px" >
+				<!--<td width="100px" bgcolor="chocolate"></td>-->
+				<td width="100px" bgcolor="crimson" colspan="2"></td>
+				<!--<td width="100px" bgcolor="pink"></td>-->
+			</tr>
+		</table>
+		</center>
+	</body>
+</html>
