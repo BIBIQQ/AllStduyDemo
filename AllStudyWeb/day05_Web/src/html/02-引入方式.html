@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+</head>
+<body>
+<div align="center"><input type="button" onclick="alert1()" id="ok"></div>
+<input type="text" placeholder="输入用户名" onclick="shuru()" id="username">
+<p style="display: none" id="term">名字不成立</p>
+
+<script>
+
+    function alert1() {
+        var stu = {"name": "lisi", "age": 15};
+        alert(stu.name + "        " + stu.age);
+    }
+
+    var elementById = document.getElementById("username");
+    elementById.blur = shuru;
+
+    function shuru() {
+        var username = elementById.value.trim();
+        var falg = username.length > 6 && username.length < 12;
+        if (falg) {
+            document.getElementById("term").style.display = "none";
+        } else {
+            document.getElementById("term").style.display = '';
+        }
+    }
+
+</script>
+
+<!--<script src="../js/demo.js"></script>-->
+</body>
+</html>
+
+

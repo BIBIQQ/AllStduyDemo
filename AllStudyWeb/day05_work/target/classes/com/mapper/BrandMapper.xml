@@ -87,9 +87,22 @@
             <if test="bid != null and bid != '' ">
                 and a.bid = #{bid}
             </if>
+            <if test="defray != null  ">
+                and a.defray = #{defray}
+            </if>
+            <if test="orderId != null and orderId != '' ">
+                and a.order_id = #{orderId}
+            </if>
+            <if test="message != null and message != '' ">
+                and a.message like #{message}
+            </if>
 
         </where>
 
     </select>
+    <!--批量发货-->
+    <update id="setStatus" >
+
+    </update>
 
 </mapper>

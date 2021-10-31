@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        .dix {
+            width: 20%;
+        }
+
+        .bt {
+            border: 0px;
+            width: 90px;
+            height: 40px;
+            color: #ffaf5c;
+            border-radius: 15px 15px;
+            background-image: linear-gradient(to right, #acd3ff, #fffbbc);
+            transition-duration: 0.4s;
+            /*transition: width 1s;*/
+            transition: width 1s, height 1s, transform 1s;
+            -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
+        }
+
+        .bt:hover {
+            width: 30%;
+            height: 50px;
+            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        input {
+            height: 30px;
+        }
+
+        .tooltiptext {
+            visibility:hidden;
+            font-size: 1ch;
+            width: 280px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            border-radius: 15px;
+            padding: 5px 0;
+
+            /* 定位 */
+            position: absolute;
+            top: 75px;
+            left: 270px;
+        }
+
+    </style>
+</head>
+<body>
+<div class="dix">
+    <table>
+        <tr>
+            <td><label for="username"><span>用户名：</span></label></td>
+            <td><input type="text" placeholder="输入用户名" onclick="shuru()" id="username"
+                       onkeyup="value=value.replace(/[^\w\.\/]/ig,'')">
+                <font size="2px" style="display: none" id="term" color="gray">名字不成立</font></td>
+        </tr>
+        <br>
+        <tr>
+            <td width="70px"><label for="password"><span>密码：</span></label></td>
+            <td><input type="password" placeholder="输入密码" onclick="pwd()" onclick="tooltiptext()"id="password">
+                <font size="2px" style="display: none" id="passwordterm" color="gray">密码不成立</font></td>
+            <span class="tooltiptext" id="tishi">密码必须保护大小写字母和数字，长度大于6位</span>
+        </tr>
+    </table>
+    <hr/>
+    <input type="button" onclick="alert1()" id="ok" class="bt" value="提交">
+</div>
+
+
+<div class="jj"></div>
+<div class="jj1"></div>
+<div class="jj"></div>
+
+
+</body>
+</html>
+
+
+<script>
+    function alert1() {
+        var falg = shuru() && pwd();
+        if (falg) {
+            alert("提交成功");
+        } else {
+            alert("提交失败");
+        }
+    }
+
+    var elementById = document.getElementById("username");
+    elementById.onblur = shuru;
+
+    function shuru() {
+        var username = elementById.value.trim();
+        var falg1 = username.length >= 6 && username.length <= 12;
+        if (falg1 || username.length == 0) {
+            document.getElementById("term").style.display = 'none';
+        } else {
+            document.getElementById("term").style.display = '';
+        }
+        return falg1;
+    }
+
+    var pd = document.getElementById("password");
+    pd.onblur = pwd;
+    pd.onfocus = tooltiptext;
+
+    function pwd() {
+        document.getElementById("tishi").style.visibility="hidden";
+        var password = pd.value.trim();
+        var re = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[^]{6,16}$/;
+        var falg2 = re.test(password);
+        if (falg2 || password.length == 0) {
+            document.getElementById("passwordterm").style.display = 'none';
+        } else {
+            document.getElementById("passwordterm").style.display = '';
+        }
+        return falg2;
+    }
+    function  tooltiptext() {
+        document.getElementById("tishi").style. visibility="visible";
+    }
+
+
+</script>
+

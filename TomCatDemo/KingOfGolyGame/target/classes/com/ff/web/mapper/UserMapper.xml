@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ff.web.mapper.UserMapper">
+
+    <insert id="addUser">
+        INSERT INTO bbs_user_table(userName,userPass,email) VALUES (#{user.userName},#{user.userPass},#{user.email});
+    </insert>
+
+    <update id="modifyLastTime">
+    UPDATE bbs_user_table SET lastLoginTime  = #{user.lastLoginTime}  ,loginStatus =#{user.loginStatus} WHERE userId = #{user.userId};
+    </update>
+
+    <update id="modifyUser">
+    UPDATE bbs_user_table SET userName  = #{user.userName}  ,email =#{user.email} WHERE userId = #{user.userId};
+    </update>
+
+    <update id="modifyUserPass">
+        UPDATE bbs_user_table SET userPass  = #{userPass}  WHERE userId = #{userId};
+    </update>
+
+
+    <select id="loginUser" resultType="com.ff.web.pojo.User">
+        select * from bbs_user_table where userName = #{user.userName} and userPass = #{user.userPass};
+    </select>
+
+    <select id="showUserById" resultType="com.ff.web.pojo.User">
+        select * from bbs_user_table where  userId = #{userId};
+    </select>
+    <select id="showUserByUserName" resultType="com.ff.web.pojo.User">
+        select * from bbs_user_table where  userName = #{user.userName};
+    </select>
+
+</mapper>

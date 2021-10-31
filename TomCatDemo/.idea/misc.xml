@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/JavaToTomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/KingOfGolyGame" />
+    <file type="web" url="file://$PROJECT_DIR$/TomcatByJSP" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcatDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/TomcatTest" />
+    <file type="web" url="file://$PROJECT_DIR$/UserByLoginOrSign" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TomcatTest/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaToTomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/UserByLoginOrSign/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatByJSP/pom.xml" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KingOfGolyGame:war">
+    <output-path>$PROJECT_DIR$/KingOfGolyGame/target</output-path>
+    <root id="archive" name="KingOfGolyGame-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="KingOfGolyGame:war exploded" />
+    </root>
+  </artifact>
+</component>

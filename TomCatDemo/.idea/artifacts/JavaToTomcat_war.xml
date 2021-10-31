@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaToTomcat:war">
+    <output-path>$PROJECT_DIR$/JavaToTomcat/target</output-path>
+    <root id="archive" name="JavaToTomcat-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaToTomcat:war exploded" />
+    </root>
+  </artifact>
+</component>

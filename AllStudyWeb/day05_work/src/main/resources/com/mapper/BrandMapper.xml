@@ -94,7 +94,7 @@
                 and a.order_id = #{orderId}
             </if>
             <if test="message != null and message != '' ">
-                and a.message = #{message}
+                and a.message like #{message}
             </if>
 
         </where>

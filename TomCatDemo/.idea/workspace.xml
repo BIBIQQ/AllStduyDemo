@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TomcatDemo:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="475c77dc-0de3-442b-bdbe-47839f20f4d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/01.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/main/01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/02.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/main/02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/biaodang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/main/biaodang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/0.e03e68dd4b004a6329bf.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/0_qq_41861034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/1(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/1634886380349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20190509234439932.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20190927151043371.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756738.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756757.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756925.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756927.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756928.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20201014180756930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20210812043922.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20211018040038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20211018040042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20211018115715.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/20211019040101.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/2_qq_41861034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/3_kevinearl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/3_oumingjei" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/3_qq_36747735" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/3_qq_41861034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/3_weixin_43705606" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/MathJax.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/apiaccept" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/app.3bec54ea487c0cba0454.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/app.f489a3ae2f49bec2f32cf9de0980a956.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/arrowDownWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/articleReadEyes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/atom-one-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/auto_dup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/baidu-search.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/blinknewcomer@240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/blog.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/blog3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/blog_code-01256533b5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/bloger@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/chart-3456820cac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/chart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/chart.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/chizhiyiheng@240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/ck_htmledit_views-1a85854398.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/closeBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/collection-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/collection-box.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/column-9f6d8d8cba.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/commentActiveHeart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/commentMore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/commentUnHeart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/common-24fa4dcb20.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/copyright.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/cs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-footer.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-login-box.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-sou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-toolbar-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/csdn-toolbar.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/detail-3d54dd61d5.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/detail_enter-ec789632bc.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/ds.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/edit_copy_code-1320dfe85c.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/emoticon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/f(1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/fanhuidingbucopy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/hm.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/jingdong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/jquery-1.9.1.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/kefu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/manifest.bd6fe1fc60bfff693d14.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newCollectActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newCollectWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newCommentWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newHealthCompanies1Active.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newHeart1Active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newHeart1White.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/newShareWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/nocErtification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeel1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeel2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeel3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeel4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeel5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeelGrey1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeelGrey2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeelGrey3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeelGrey4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/npsFeelGrey5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/order-payment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/order-payment.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/original.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/pay-help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/pay-time-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/pc_wap_common-97cdfef25d.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/pc_wap_highlight-a6777dccd0.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/push.js(1).下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/push.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/qiandao1@240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/qixiebiaobing1@240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/qrcode-7c90a92189.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/qrcode.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/qrcode.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/readCountWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/recharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/redpack.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/redpack.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/report.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/sandalstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/sandalstrap.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/saved_resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/saved_resource(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/saved_resource(2)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/saved_resource(3)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/side-toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/side-toolbar.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/skin-city-1555a6304e.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/tobarCollect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/tobarCollectionActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/tobarThumbUpactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/trackad.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-login.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-medal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-medal.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-ordercart.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-ordertip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-ordertip.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/user-tooltip.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/vendor.035d0858cf255f2bf0ec.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/widget2chart.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/yuedu3@240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/zhifubao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/de/(6条消息) Mybatis实现多表联查_TaoistQu的博客-CSDN博客_mybatis多表联查_files/zrt_lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/img/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/img/b.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/img/c.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_Web/src/img/微信图片_20210716212009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_work/src/main/resources/com/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_work/src/main/resources/com/mapper/BrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_work/src/test/java/com/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_work/src/test/java/com/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/classes/com/mapper/BrandMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/classes/com/mapper/BrandMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/classes/com/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/classes/com/mapper/BrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/test-classes/com/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AllStudyWeb/day05_work/target/test-classes/com/demo/Demo.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/tomcatDemo/target/" />
+    <ignored path="$PROJECT_DIR$/ff/target/" />
+    <ignored path="$PROJECT_DIR$/TomcatTest/target/" />
+    <ignored path="$PROJECT_DIR$/JavaToTomcat/target/" />
+    <ignored path="$PROJECT_DIR$/UserByLoginOrSign/target/" />
+    <ignored path="$PROJECT_DIR$/TomcatByJSP/target/" />
+    <ignored path="$PROJECT_DIR$/KingOfGolyGame/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="878681880">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="html" value="100" />
+          <entry key="java" value="427" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="153" />
+          <entry key="png" value="9" />
+          <entry key="xml" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="100" />
+          <entry key="Image" value="12" />
+          <entry key="JAVA" value="427" />
+          <entry key="JSP" value="153" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="ft" value="73" />
+          <entry key="html" value="850" />
+          <entry key="java" value="14859" />
+          <entry key="jsp" value="2490" />
+          <entry key="xml" value="1721" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="850" />
+          <entry key="JAVA" value="14859" />
+          <entry key="JSP" value="2490" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="SQL" value="13" />
+          <entry key="VTL" value="73" />
+          <entry key="XML" value="1708" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TomCatDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/GetArticleServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/getArticle.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="897">
+              <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>current</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/pojo/Article.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/pojo/Comment.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/pojo/Reply.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/pojo/Upvote.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/pojo/Zone.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/ArticleZoneServlet.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/service/UserService.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/FindArticleZoneServlet.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/resources/com/ff/web/mapper/ArtcleMapper.xml" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/FindArticleServlet.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/GetSqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/html/index.html" />
+        <option value="$PROJECT_DIR$/JavaToTomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatTest/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/session/AgainLogsin.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/html/index.jsp" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AgainLogsin.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/FindArticleByIdServlet.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/success.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/userInfo.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/userPwd.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/getArticle.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/service/ArtcleService.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/mapper/ArtcleMapper.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/IndextHtmlServlet.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/Daojishi.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/common/header.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/SignOutServlet.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeUtil.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/User.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/resources/com/itheima/mapper/LoginMapper.xml" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/LoginMapper.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/LoginUser.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/LoginService.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/UserService.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CharCodeServlet.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/CheckCodeUtil.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AddUser.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeServlet.java" />
+        <option value="$PROJECT_DIR$/TomcatTest/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/GetArticleServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TomcatByJSP" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TomcatByJSP" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserByLoginOrSign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserByLoginOrSign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="549" />
+    <option name="y" value="-8" />
+    <option name="width" value="1087" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KingOfGolyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TomcatTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TomcatTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TomcatTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TomCatDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TomcatTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635686701243" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oneShop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\webapp\WEB-INF" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\webapp" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\java\com\itheima\web" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\java\com\itheima\untils" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\java\com\itheima" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.untils" />
+      <recent name="com.itheima.web.servlet" />
+      <recent name="com.itheima.web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\webapp" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\TomcatTest\src\main\webapp\htm" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\UserByLoginOrSign\src\main\webapp" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\UserByLoginOrSign\src\main\webapp\stu" />
+      <recent name="E:\HEIMA\Demo\TomCatDemo\tomcatDemo\src\main\webapp\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.68" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="TomcatDemo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TomCatDemo" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5061" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TomcatDemo:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475c77dc-0de3-442b-bdbe-47839f20f4d6" name="Default Changelist" comment="" />
+      <created>1635168184146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635168184146</updated>
+      <workItem from="1635168187478" duration="489000" />
+      <workItem from="1635172661673" duration="2156000" />
+      <workItem from="1635209614048" duration="310000" />
+      <workItem from="1635209961579" duration="99000" />
+      <workItem from="1635210088605" duration="7154000" />
+      <workItem from="1635230699696" duration="571000" />
+      <workItem from="1635231303483" duration="66000" />
+      <workItem from="1635231400129" duration="297000" />
+      <workItem from="1635231728556" duration="899000" />
+      <workItem from="1635232722502" duration="2129000" />
+      <workItem from="1635234908808" duration="7451000" />
+      <workItem from="1635246373674" duration="8631000" />
+      <workItem from="1635307964944" duration="1437000" />
+      <workItem from="1635382908787" duration="18171000" />
+      <workItem from="1635410744373" duration="13612000" />
+      <workItem from="1635432354296" duration="3089000" />
+      <workItem from="1635468819059" duration="33449000" />
+      <workItem from="1635559118667" duration="7269000" />
+      <workItem from="1635574040780" duration="12198000" />
+      <workItem from="1635591352852" duration="13516000" />
+      <workItem from="1635641082876" duration="33430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166423000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48494983" visible="true" weight="0.23253334" />
+      <window_info id="Structure" order="1" sideWeight="0.50083196" side_tool="true" weight="0.20906667" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50083196" side_tool="true" weight="0.20906667" />
+      <window_info id="Web" order="7" sideWeight="0.5150502" side_tool="true" weight="0.23253334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706668" weight="0.41248608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5029333" side_tool="true" weight="0.41248608" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49902534" weight="0.33110368" />
+      <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49902534" weight="0.32887402" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.3296" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3296" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48387095" visible="true" weight="0.17546667" />
+      <window_info id="Structure" order="1" sideWeight="0.50083196" side_tool="true" weight="0.20906667" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50083196" side_tool="true" weight="0.20906667" />
+      <window_info id="Web" order="7" sideWeight="0.516129" side_tool="true" weight="0.17546667" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706668" weight="0.41248608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5029333" side_tool="true" weight="0.41248608" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49902534" weight="0.33110368" />
+      <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49902534" weight="0.32887402" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.3296" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3296" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/ico.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/img01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/img02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/img03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/img04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/list-imgs.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/images/qw.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/css/detail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="86" column="15" lean-forward="true" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/css/common-new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/service/ArtcleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addUser#0;class#UserService#0" />
+            <element signature="method#showUserById#0;class#UserService#0" />
+            <element signature="method#showUserByUserName#0;class#UserService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/mapper/ArtcleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/IndextHtmlServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/Daojishi.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/SignOutServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/ServletDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/htm/html/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/resources/com/itheima/mapper/LoginMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/LoginMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="102" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/brand.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="54" lean-forward="true" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/AddUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/LoginUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/GetSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CharCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AddUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AgainLogsin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/CheckCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/getArticle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KingOfGolyGame/src/main/java/com/ff/web/servlet/GetArticleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>TomcatDemo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>KingOfGolyGame</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+com\itheima\servlet\EleServlet.class
+com\itheima\mapper\BrandMappr.class
+com\itheima\servlet\FindAllBrandsServlet.class
+com\itheima\pojo\Brands.class
+com\itheima\servlet\showByIdServlet.class
+com\itheima\until\GetSqlSessionFactory.class
+com\itheima\servlet\JsptextServlet.class
+com\itheima\service\BrandService.class
+com\itheima\servlet\DelectBrandServlet.class
+com\itheima\servlet\AddBrandServlet.class
+com\itheima\servlet\ModifyBrandServlet.class
+com\itheima\pojo\Brand.class

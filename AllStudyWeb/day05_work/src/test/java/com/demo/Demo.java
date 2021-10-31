@@ -73,15 +73,17 @@ public class Demo {
     @Test
     public  void  Bymuch(){
         String userCall =  "15557849397";
-
         String starTime = "2021-10-21";
         String endTime = "2021-10-23";
+        String message = "快";
+        message = "%" +message+"%";
 
         Map map = new HashMap();
 
 //        map.put("userCall",userCall);
-        map.put("starTime",starTime);
-        map.put("endTime",endTime);
+//        map.put("starTime",starTime);
+//        map.put("endTime",endTime);
+        map.put("message",message);
 
         List<Brand> bymuch = mapper.Bymuch(map);
 

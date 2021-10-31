@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.BrandMapper">
+    <!--
+    查询  输入编号获得用户的信息
+           输入编号获得商品的信息
+           某个用户购买的所有商品信息
+    -->
+
+    <resultMap id="UserMaper" type="com.pojo.User">
+        <id property="id" column="id"></id>
+        <result property="userName" column="user_name"></result>
+        <result property="tel" column="tel"></result>
+    </resultMap>
+    <resultMap id="ProuductMapper" type="Prouduct">
+        <id property="id" column="id"></id>
+        <result property="productName" column="product_name"></result>
+        <result property="catalog" column="catalog"></result>
+    </resultMap>
+
+
+    <select id="getUser" resultMap="UserMaper">
+
+      SELECT * FROM user where id = #{id};
+
+    </select>
+    <select id="getProduct" resultMap="ProuductMapper">
+        SELECT * FROM product where id = #{id};
+    </select>
+
+    <select id="findUserProductByUserId" resultMap="ProuductMapper">
+
+        SELECT* FROM product where id in (SELECT product_id FROM `transaction`   WHERE user_id =#{userId})  ;
+    </select>
+
+
+</mapper>

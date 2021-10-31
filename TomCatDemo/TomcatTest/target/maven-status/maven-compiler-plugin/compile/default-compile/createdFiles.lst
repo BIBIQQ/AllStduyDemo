@@ -1,0 +1,15 @@
+com\itheima\web\cookie\BServlet.class
+com\itheima\web\CheckCodeServlet.class
+com\itheima\pojo\User.class
+com\itheima\web\AgainLogsin.class
+com\itheima\web\AddUser.class
+com\itheima\Service\UserService.class
+com\itheima\untils\CheckCodeUtil.class
+com\itheima\web\CheckCodeUtil.class
+com\itheima\pojo\Login.class
+com\itheima\web\session\SessionDemo1.class
+com\itheima\untils\GetSqlSessionFactory.class
+com\itheima\web\LoginUser.class
+com\itheima\mapper\UserMapper.class
+com\itheima\web\cookie\AServlet.class
+com\itheima\web\session\SessionDemo2.class
