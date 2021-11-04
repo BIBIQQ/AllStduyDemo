@@ -1,9 +1,9 @@
 <%@ page import="java.io.PrintWriter" %>
-<%@ page import="com.itheima.pojo.Stu" %>
+<%@ page import="com.ff.pojo.Stu" %>
 <%@ page import="org.apache.ibatis.session.SqlSessionFactory" %>
-<%@ page import="com.itheima.until.GetSqlSessionFactory" %>
+<%@ page import="com.ff.until.GetSqlSessionFactory" %>
 <%@ page import="org.apache.ibatis.session.SqlSession" %>
-<%@ page import="com.itheima.mapper.StuByAddOrShow" %>
+<%@ page import="com.ff.mapper.StuByAddOrShow" %>
 <%@ page import="java.util.List" %><%--
   Created by IntelliJ IDEA.
   User: hasee

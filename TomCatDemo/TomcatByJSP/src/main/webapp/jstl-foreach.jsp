@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="com.itheima.pojo.Brand" %><%--
+<%@ page import="com.ff.pojo.Brand" %><%--
   User: FF
   Date: 2021/10/29
   Time: 14:41

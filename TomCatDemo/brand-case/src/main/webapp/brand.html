@@ -44,7 +44,7 @@
 
     <el-row>
 
-        <el-button type="danger" plain>批量删除</el-button>
+        <el-button type="danger" plain @click="removeBrandById">批量删除</el-button>
         <el-button type="primary" plain @click="dialogVisible = true">新增</el-button>
 
     </el-row>
@@ -172,7 +172,6 @@
                     align="center"
                     label="操作">
 
-
                 <template slot-scope="scope">
                     <el-button type="primary" @click="modifyBrand(scope.row)">修改</el-button>
                     <el-button type="danger" @click="removeBrand(scope.row)">删除</el-button>
@@ -190,9 +189,9 @@
             @current-change="handleCurrentChange"
             :current-page="currentPage"
             :page-sizes="[5, 10, 15, 20]"
-            :page-size="5"
+            :page-size="pageSize"
             layout="total, sizes, prev, pager, next, jumper"
-            :total="10">
+            :total='totalCount'>
     </el-pagination>
 
 </div>
@@ -216,20 +215,23 @@
             },
             // 复选框选中后执行的方法
             handleSelectionChange(val) {
-                console.log(this.multipleSelection)
+                this.multipleSelection = val;
             },
             // 查询方法
             onSubmit() {
-                console.log(this.brand);
+                this.currentPage = 1;
+                this.indexUp();
+            /*    this.currentPage=1;*/
+
             },
             //修改的方法
-            updataBrand(){
+            updataBrand() {
                 let that = this;
                 let brand = this.updatabrand;
                 brand.status = Number(this.updatabrand.status);
                 axios({
                     method: "post",
-                    url: "http://localhost:8848/brand-case/updataBrandServlet",
+                    url: "http://localhost:8848/brand-case/brand/updataBrandServlet",
                     data: brand
                 }).then(function (resp) {
                     var result = resp.data;
@@ -254,7 +256,7 @@
                 let that = this;
                 axios({
                     method: "post",
-                    url: "http://localhost:8848/brand-case/addBrandServlet",
+                    url: "http://localhost:8848/brand-case/brand/addBrandServlet",
                     data: that.brand
                 }).then(function (resp) {
                     var result = resp.data;
@@ -270,64 +272,143 @@
                             type: 'false'
                         });
                     }
+                    that.brand={};
                     that.indexUp();
                 })
 
             },
             //删除数据
-            removeBrand(brand){
-                let that = this;
-                axios({
-                    method: "post",
-                    url: "http://localhost:8848/brand-case/removeBrandervlet",
-                    data: brand
-                }).then(function (resp) {
-                    var result = resp.data;
-                    if (result) {
-                        that.$message({
-                            message: '删除成功，恭喜你！',
-                            type: 'succes'
-                        });
-                    } else {
-                        that.$message({
-                            message: '删除失败，请重新尝试！',
-                            type: 'false'
-                        });
+            removeBrand(brand) {
+                //弹窗
+                this.$confirm('此操作将永久删除该文件, 是否继续?', '提示', {
+                    confirmButtonText: '确定',
+                    cancelButtonText: '取消',
+                    type: 'warning'
+                }).then(() => {
+
+                    let that = this;
+                    axios({
+                        method: "post",
+                        url: "http://localhost:8848/brand-case/brand/removeBrandServlet",
+                        data: brand
+                    }).then(function (resp) {
+                        that.brand = {};
+                        var result = resp.data;
+                        if (result) {
+                            that.$message({
+                                message: '删除成功，恭喜你！',
+                                type: 'succes'
+                            });
+                        } else {
+                            that.$message({
+                                message: '删除失败，请重新尝试！',
+                                type: 'false'
+                            });
+                        }
+                        that.indexUp();
+                    })
+
+                }).catch(() => {
+                    this.$message({
+                        type: 'info',
+                        message: '已取消删除'
+                    });
+                });
+
+
+            },
+            //批量删除数据
+            removeBrandById() {
+                //出现弹窗
+                this.$confirm('此操作将永久删除该文件, 是否继续?', '提示', {
+                    confirmButtonText: '确定',
+                    cancelButtonText: '取消',
+                    type: 'warning'
+                }).then(() => {
+
+                    let that = this;
+                    //获取id数组
+                    for (let i = 0; i < this.multipleSelection.length; i++) {
+                        let SelectionElement = this.multipleSelection[i];
+                        this.selectedIds[i] = SelectionElement.id;
                     }
-                    that.indexUp();
-                })
+                    //发送对象
+                    axios({
+                        method: "post",
+                        url: "http://localhost:8848/brand-case/brand/removeBrandByIdServlet",
+                        data: that.selectedIds
+                    }).then(function (resp) {
+                        var result = resp.data;
+                        if (result) {
+                            that.$message({
+                                message: '删除成功，恭喜你！',
+                                type: 'succes'
+                            });
+                        } else {
+                            that.$message({
+                                message: '删除失败，请重新尝试！',
+                                type: 'false'
+                            });
+                        }
+                        that.indexUp();
+                    })
+                    //取消删除
+                }).catch(() => {
+                    this.$message({
+                        type: 'info',
+                        message: '已取消删除'
+                    });
+                });
+
+
             },
             /*显示修改dialog的方法*/
             modifyBrand(brand) {
                 //显示修改
                 this.modifydialogVisible = true;
-                this.updatabrand = {...brand, status:brand.status == 1 ? '1':'0'};;
+                this.updatabrand = {...brand, status: brand.status == 1 ? '1' : '0'};
+                ;
             },
 
             //分页
             handleSizeChange(val) {
-                console.log(`每页 ${val} 条`);
 
+                // console.log(`每页: ${val}` 条);
+                //过去每页页数
+                this.pageSize = val;
+                this.indexUp();
             },
             handleCurrentChange(val) {
-                console.log(`当前页: ${val}`);
+                // console.log(`当前页: ${val}`);
+                this.currentPage = val;
+                this.indexUp();
             },
+            //搜索所有
             indexUp() {
                 var that = this;
                 axios({
                     method: "post",
-                    url: "http://localhost:8848/brand-case/findAllBrandServlet"
+                    url: "http://localhost:8848/brand-case/brand/selectBrandByPageAndCounditionServlet?currentPage=" + this.currentPage + "&pageSize=" + this.pageSize,
+                    data: this.brand
                 }).then(function (resp) {
-                    var brand = resp.data;
-                    that.tableData = brand;
+                    //设置表格数量
+                    that.tableData = resp.data.rows;
+                    //设置总记录数
+                    that.totalCount = resp.data.totalCount;
                 })
             }
 
         },
         data() {
             return {
+                //被选中的id数组
+                selectedIds: [],
                 // 当前页码
-                currentPage: 4,
+                currentPage: 1,
+                //页面记录数
+                pageSize: 5,
+                //总记录数
+                totalCount: 1,
                 // 添加\修改数据对话框是否展示的标记
                 dialogVisible: false,
                 modifydialogVisible: false,
@@ -351,10 +432,13 @@
             var that = this;
             axios({
                 method: "post",
-                url: "http://localhost:8848/brand-case/findAllBrandServlet"
+                url: "http://localhost:8848/brand-case/brand/selectBrandByPageAndCounditionServlet?currentPage=" + this.currentPage + "&pageSize=" + this.pageSize,
+                data: this.brand
             }).then(function (resp) {
-                var brand = resp.data;
-                that.tableData = brand;
+                //设置表格数量
+                that.tableData = resp.data.rows;
+                //设置总记录数
+                that.totalCount = resp.data.totalCount;
             })
         }
     })

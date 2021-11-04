@@ -1,4 +1,4 @@
-<%@ page import="com.itheima.pojo.Brand" %>
+<%@ page import="com.ff.pojo.Brand" %>
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.ArrayList" %><%--
   Created by IntelliJ IDEA.

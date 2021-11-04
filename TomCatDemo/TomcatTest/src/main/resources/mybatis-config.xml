@@ -5,7 +5,7 @@
 <configuration>
     <!--别名-->
     <typeAliases>
-        <package name="com.itheima.pojo"/>
+        <package name="com.ff.pojo"/>
     </typeAliases>
 
     <environments default="development">
@@ -21,6 +21,6 @@
     </environments>
     <mappers>
         <!--接口包名-->
-        <package name ="com.itheima.mapper"></package>
+        <package name ="com.ff.mapper"></package>
     </mappers>
 </configuration>

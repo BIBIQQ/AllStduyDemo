@@ -13,7 +13,7 @@
     <!--过滤器配置-->
     <filter>
         <filter-name>aa</filter-name>
-        <filter-class>com.itheima.filter.FilterDemo</filter-class> <!--全限定类名-->
+        <filter-class>com.ff.filter.FilterDemo</filter-class> <!--全限定类名-->
         <!--配置过滤器初始化的值-->
         <init-param>
             <param-name>uname</param-name>
@@ -26,6 +26,6 @@
     </filter-mapping>
     <!--配置监听器-->
     <!--<listener>
-        <listener-class>com.itheima.listener.ListenerDemo</listener-class>
+        <listener-class>com.ffener.ListenerDemo</listener-class>
     </listener>-->
 </web-app>
