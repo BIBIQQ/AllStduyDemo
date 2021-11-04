@@ -20,6 +20,7 @@
         </environment>
     </environments>
     <mappers>
+        <!--接口包名-->
         <package name ="com.itheima.mapper"></package>
     </mappers>
 </configuration>

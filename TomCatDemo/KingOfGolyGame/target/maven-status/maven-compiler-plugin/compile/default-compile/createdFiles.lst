@@ -7,6 +7,8 @@ com\ff\web\mapper\ArtcleMapper.class
 com\ff\web\mapper\UserMapper.class
 com\ff\web\servlet\AddUserServlet.class
 com\ff\web\service\UserService.class
+com\ff\web\filter\FilterDemo.class
+com\ff\web\servlet\GetArticleServlet.class
 com\ff\web\pojo\Zone.class
 com\ff\web\service\ArtcleService.class
 com\ff\web\servlet\FindArticleByIdServlet.class

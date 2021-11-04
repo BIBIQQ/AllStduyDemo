@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5">
+
+	<!--过滤器配置-->
+	<filter>
+		<filter-name>aa</filter-name>
+		<filter-class>com.ff.web.filter.FilterDemo</filter-class> <!--全限定类名-->
+		<!--配置过滤器初始化的值-->
+		<init-param>
+			<param-name>uname</param-name>
+			<param-value>zhangsan</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>aa</filter-name>
+		<url-pattern>/xx</url-pattern>	<!--需要拦截哪些资源 等同于@WebFilter-->
+	</filter-mapping>
+</web-app>

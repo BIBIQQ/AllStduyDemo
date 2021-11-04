@@ -26,7 +26,6 @@ public class LoginUser  extends HttpServlet {
 //        验证数据
         UserService loginService = new UserService();
       User user = loginService.LoginUserService(username, password);
-        System.out.println(user);
         if (user!=null) {
 
             if("1".equals(Remember)){
@@ -44,7 +43,7 @@ public class LoginUser  extends HttpServlet {
             HttpSession session = req.getSession();
             session.setAttribute("user",user);
 
-            req.getRequestDispatcher("/brand.jsp").forward(req,resp);
+            req.getRequestDispatcher("/brand.html").forward(req,resp);
 
         }else{
             req.setAttribute("login_msg","用户名或密码不正确");

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/brand-case" />
+    <file type="web" url="file://$PROJECT_DIR$/day12filter" />
     <file type="web" url="file://$PROJECT_DIR$/JavaToTomcat" />
     <file type="web" url="file://$PROJECT_DIR$/KingOfGolyGame" />
     <file type="web" url="file://$PROJECT_DIR$/TomcatByJSP" />
@@ -19,6 +21,8 @@
         <option value="$PROJECT_DIR$/UserByLoginOrSign/pom.xml" />
         <option value="$PROJECT_DIR$/TomcatByJSP/pom.xml" />
         <option value="$PROJECT_DIR$/KingOfGolyGame/pom.xml" />
+        <option value="$PROJECT_DIR$/day12filter/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-case/pom.xml" />
       </list>
     </option>
   </component>

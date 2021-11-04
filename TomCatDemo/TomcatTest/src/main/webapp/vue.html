@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<div id="app">
+    双：<input v-model= "username" >
+    单：<input v-bind:value= "meg">
+    <div><font size="111cm">{{username}}</font></div>
+    <div>{{meg}}</div>
+    <a :href="url" >aaa</a>
+    <br>
+    <input type="button" value="这是一个按钮" v-on:click="show()">
+    <hr>
+
+    <input v-model ="count">
+    <div v-if = "count == 3">div1</div>
+    <div v-else-if = " count ==4 ">div2</div>
+    <div v-else>div3</div>
+    <div v-show="count == 3">div4</div>
+    <hr>
+
+    <input type="button" @click ="change()" value="别按！！！！">{{num}}
+    <div v-if=" num%2 == 0">我是大聪明</div>
+    <div v-show=" num%2 == 1">你不是大聪明</div>
+    <hr>
+
+    <div v-for="addr in arr">
+        <div>{{addr}}</div>
+    </div>
+
+    <div v-for="(addr,i) in arr">
+        <div v-if ="num == i">{{i+1}}----{{addr}}</div>
+    </div>
+    <hr>
+    <input type="button" value="新增" @click="newadd()"><br>
+    <table border="1" cellspacing="0" width="80%" id="brandtable">
+        <tr>
+            <th>序号</th>
+            <th>品牌名称</th>
+            <th>企业名称</th>
+            <th>排序</th>
+            <th>品牌介绍</th>
+            <th>状态</th>
+            <th>操作</th>
+        </tr>
+        <!--遍历 v-for -->
+
+        <tr align="center" v-for="(brand ,i) in brands" >
+            <td>{{i+1}}</td>
+            <td>{{brand.brandName}}</td>
+            <td>{{brand.companyName}}</td>
+            <td>{{brand.description}}</td>
+            <td>{{brand.ordered}}</td>
+            <td v-if="brand.status == 1">{{qy}}</td>
+            <td v-if="brand.status == 0">{{jy}}</td>
+            <td><a href="/#">修改</a> <a href="#"   >删除</a></td>
+        </tr>
+    </table>
+   <div v-show="addnum % 2==1">
+       <h3>添加品牌</h3>
+       <form action="#" method="post">
+           品牌名称：<input name="brandName" id="brandName" v-model="newBrand.brandName"><br>
+           企业名称：<input name="companyName"  id="companyName" v-model="newBrand.companyName"><br>
+           排序：<input name="ordered"  id="ordered" v-model="newBrand.ordered"><br>
+           描述信息：<textarea rows="5" cols="20" name="description"  id="description" v-model="newBrand.description"></textarea><br>
+           状态：
+           <input type="radio" name="status" value="0"  v-model="newBrand.status">禁用
+           <input type="radio" name="status" value="1"  v-model="newBrand.status">启用<br>
+
+           <input type="button" value="提交" @click="add()">
+       </form>
+   </div>
+</div>
+</body>
+
+<script src="/js/vue.js"></script>
+<script src="js/axios-0.18.0.js"></script>
+<script src="element-ui/lib/index.js"></script>
+<link rel="stylesheet" href="element-ui/lib/theme-chalk/index.css">
+
+<script>
+
+    new Vue({
+        el:"#app",
+        data(){
+            return{
+                username:"",
+                meg:"bbb",
+                url:"xxxxxx",
+                count:3,
+                num:0,
+                addnum:0,
+                arr:["上海","北京","合肥"],
+                brands:[],
+                newBrand:{},
+                qy:"启用",
+                jy:"禁用"
+            }
+        },
+        methods:{
+            show(){
+                this.meg="改变后";
+            },
+            change(){
+              this.num++;
+            },
+            remove(id){
+
+                alert(id);
+            },
+            indexUp(){
+                var that = this;
+                axios({
+                    method:"post",
+                    url:"http://localhost:8848/findAllBrandServlet"
+                }).then(function (resp) {
+                    var brand= resp.data;
+                    that.brands = brand;
+
+                })
+            },
+            newadd(){
+                let that = this;
+                that.addnum++;
+            },
+            add(){
+                let that = this;
+                axios({
+                    method:"post",
+                    url:"http://localhost:8848/addBrandServlet",
+                    data:that.newBrand
+                }).then(function (resp) {
+                    var result = resp.data;
+                    if(result){
+                       alert("添加成功");
+                        that.indexUp();
+                    }else {
+                        alert("添加失败")
+                    }
+                    that.addnum++;
+                })
+            }
+        },
+        mounted(){
+            var that = this;
+                axios({
+                    method:"post",
+                    url:"http://localhost:8848/findAllBrandServlet"
+                }).then(function (resp) {
+                    var brand= resp.data;
+                    that.brands = brand;
+
+                })
+            }
+
+    })
+</script>
+</html>

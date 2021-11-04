@@ -17,7 +17,7 @@
         if(t==0){
             location.href="/indextHtmlServlet";
         }
-        document.getElementById('show').innerHTML="${falg}"+t+"秒后跳转...";
+        document.getElementById('show').innerHTML=${login_msg}+"${falg}"+t+"秒后跳转...";
         t--;
     }
 </script>

@@ -23,7 +23,7 @@
                 <td class="inputs">
                     <input name="username" type="text" id="username">
                     <br>
-                    <span id="username_err" class="err_msg" style="font-size: 1ch">${addUser_msg}</span>
+                    <span id="username_err" class="err_msg" style="display: none">用户名已经存在${addUser_msg}</span>
                 </td>
 
             </tr>
@@ -66,3 +66,80 @@
     }
 
 </script>
+<script src="${pageContext.request.contextPath}/js/axios-0.18.0.js"></script>
+<script>
+
+    document.getElementById("username").onblur = function () {
+        //发送ajax
+        var username = this.value;
+
+     /*   axios.post ("http://localhost:8848/selectUserByIdServlet","username"+username).then(function (resp) {
+            alert(resp.data);
+        })*/
+
+       /* //创建核心对象
+        var xhttp;
+        if (window.XMLHttpRequest) {
+            xhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        //发送请求
+        xhttp.open("GET", "http://localhost/selectUserByIdServlet?username"+username);
+        xhttp.send();
+        //服务器响应
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                //alert(this.responseText);
+                //判断
+                if(this.responseText == "true"){
+                    //用户名存在，显示提示信息
+                    document.getElementById("username_err").style.display = '';
+                }else {
+                    //用户名不存在 ，清楚提示信息
+                    document.getElementById("username_err").style.display = 'none';
+                }
+            }
+        }*/
+        axios({
+            method:"post",
+            url:"http://localhost:8848/selectUserByIdServlet",
+            data:"username="+username
+        }).then(function (resp) {
+            var result =resp.data;
+            if(result){
+                //用户名存在，显示提示信息
+                document.getElementById("username_err").style.display = '';
+            }else {
+                //用户名不存在 ，清楚提示信息
+                document.getElementById("username_err").style.display = 'none';
+            }
+        })
+
+    }
+</script>
+
+
+
+<%--
+<script>
+    //1. get  请求参数只能在url之后
+    /* axios({
+         method:"get",
+         url:"http://localhost:8080/ajax-demo/axiosServlet?username=zhangsan"
+     }).then(function (resp) {
+         alert(resp.data);
+     })*/
+
+
+    //2. post
+    axios({
+        method:"post",
+        url:"http://localhost:80/selectUserByIdServlet",
+        data:"username=zhangsan"
+    }).then(function (resp) {
+        alert(resp.data);
+    })
+
+</script>--%>

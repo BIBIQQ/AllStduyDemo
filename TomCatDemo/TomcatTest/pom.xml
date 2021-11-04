@@ -17,7 +17,7 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
-                    <port>80</port>
+                    <port>8848</port>
                     <path>/</path>
                     <uriEncoding>UTF-8</uriEncoding>
                 </configuration>
@@ -27,7 +27,7 @@
 
     <!--依赖-->
     <dependencies>
-        <!--servlet-->
+        <!--web-->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
@@ -65,7 +65,12 @@
             <artifactId>standard</artifactId>
             <version>1.1.2</version>
         </dependency>
-
+        <!--FastJson-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.62</version>
+        </dependency>
     </dependencies>
 
 </project>

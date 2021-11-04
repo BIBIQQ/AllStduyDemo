@@ -1,0 +1,12 @@
+com\itheima\util\GetSqlSessionFactory.class
+com\itheima\web\AddBrandServlet.class
+com\itheima\web\RemoveBrandervlet.class
+com\itheima\web\UpdataBrandServlet.class
+com\itheima\util\SqlSessionFactoryUtils.class
+com\itheima\web\FindAllBrandServlet.class
+com\itheima\mapper\BrandMapper.class
+com\itheima\web\BrandServlet.class
+com\itheima\service\BrandService.class
+com\itheima\web\FindBrandByValServlet.class
+com\itheima\web\BaseServlet.class
+com\itheima\pojo\Brand.class

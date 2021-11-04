@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="brand-case" />
+        <module name="day12filter" />
         <module name="JavaToTomcat" />
         <module name="KingOfGolyGame" />
         <module name="TomcatByJSP" />
@@ -14,6 +16,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="brand-case" target="1.8" />
+      <module name="day12filter" target="1.8" />
       <module name="ff" target="1.8" />
       <module name="JavaToTomcat" target="1.8" />
       <module name="KingOfGolyGame" target="1.8" />

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1>欢迎您</h1>
+
+<input type="button" value="新增" id="add"><br>
+<hr>
+<table border="1" cellspacing="0" width="80%" id="brandtable">
+
+
+
+</table>
+<script src="js/axios-0.18.0.js"></script>
+<script>
+
+        window.onload = indexBrand ();
+        function indexBrand () {
+
+        // 发送axios请求
+        axios({
+            method: "get",
+            url: "http://localhost:8848/findAllBrandServlet"
+        }).then(function (resp) {
+                let brands = resp.data;
+                let tableData = " <tr>\n" +
+                    "        <th>序号</th>\n" +
+                    "        <th>品牌名称</th>\n" +
+                    "        <th>企业名称</th>\n" +
+                    "        <th>排序</th>\n" +
+                    "        <th>品牌介绍</th>\n" +
+                    "        <th>状态</th>\n" +
+                    "        <th>操作</th>\n" +
+                    "    </tr>";
+                for (let i = 0; i < brands.length; i++) {
+                    let brand = brands[i];
+                    let status = null;
+                    if(brand.status == 1){
+                        status="启用";
+                    }else{
+                        status="禁用";
+                    }
+                    //将表格书写到页面
+                    tableData += " <tr align=\"center\">\n" +
+                        "        <td>"+(i+1)+"</td>\n" +
+                        "        <td>"+brand.brandName+"</td>\n" +
+                        "        <td>"+brand.companyName+"</td>\n" +
+                        "        <td>"+brand.ordered+"</td>\n" +
+                        "        <td>"+brand.description+"</td>\n" +
+                        "        <td>"+status+"</td>\n" +
+                        "        <td><a href=\"update.jsp?id="+brand.id+"\"  >修改</a> <a href=\"#\"  onclick='removeBrand("+brand.id+")'  >删除</a></td>\n" +
+                        "    </tr> ";
+                }
+            document.getElementById("brandtable").innerHTML = tableData;
+            }
+        )
+    }
+
+
+</script>
+<script>
+    document.getElementById("add").onclick = function () {
+        location.href = "/addBrand.jsp";
+    }
+
+    function removeBrand(dom) {
+        console.log(dom);
+        let brandid= {id:dom};
+        axios({
+            method:"post",
+            url: "http://localhost:8848/removeBrandServlet",
+            data:brandid
+        }).then(function (resp) {
+            let result  = resp.data;
+            if(result){
+                alert("删除成功");
+                indexBrand ();
+            }
+        })
+    }
+</script>
+
+</body>
+</html>

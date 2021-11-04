@@ -23,7 +23,7 @@
     </build>
     <!--依赖-->
     <dependencies>
-        <!--servlet-->
+        <!--web-->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>

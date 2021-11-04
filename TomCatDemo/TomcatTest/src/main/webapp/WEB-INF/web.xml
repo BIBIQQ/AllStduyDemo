@@ -8,4 +8,24 @@
 <welcome-file-list>
     <welcome-file>/login.jsp</welcome-file>
 </welcome-file-list>
+
+    <!--过滤器配置-->
+    <!--过滤器配置-->
+    <filter>
+        <filter-name>aa</filter-name>
+        <filter-class>com.itheima.filter.FilterDemo</filter-class> <!--全限定类名-->
+        <!--配置过滤器初始化的值-->
+        <init-param>
+            <param-name>uname</param-name>
+            <param-value>zhangsan</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>aa</filter-name>
+        <url-pattern>/xxx</url-pattern>	<!--需要拦截哪些资源 等同于@WebFilter-->
+    </filter-mapping>
+    <!--配置监听器-->
+    <!--<listener>
+        <listener-class>com.itheima.listener.ListenerDemo</listener-class>
+    </listener>-->
 </web-app>

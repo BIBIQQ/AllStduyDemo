@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<div id="app">
+    双：<input v-model= "username" >
+    单：<input v-bind:value= "meg">
+    <div><font size="111cm">{{username}}</font></div>
+    <div>{{meg}}</div>
+    <a :href="url" >aaa</a>
+    <br>
+    <input type="button" value="这是一个按钮" v-on:click="show()">
+    <hr>
+
+    <input v-model ="count">
+    <div v-if = "count == 3">div1</div>
+    <div v-else-if = " count ==4 ">div2</div>
+    <div v-else>div3</div>
+    <div v-show="count == 3">div4</div>
+    <hr>
+
+    <input type="button" @click ="change()" value="别按！！！！">{{num}}
+    <div v-if=" num%2 == 0">我是大聪明</div>
+    <div v-show=" num%2 == 1">你不是大聪明</div>
+    <hr>
+
+    <div v-for="addr in arr">
+        <div>{{addr}}</div>
+    </div>
+
+    <div v-for="(addr,i) in arr">
+        <div v-if ="num == i">{{i+1}}----{{addr}}</div>
+    </div>
+    <hr>
+    <table border="1" cellspacing="0" width="80%" id="brandtable">
+        <tr>
+            <th>序号</th>
+            <th>品牌名称</th>
+            <th>企业名称</th>
+            <th>排序</th>
+            <th>品牌介绍</th>
+            <th>状态</th>
+            <th>操作</th>
+        </tr>
+        <!--遍历 v-for -->
+
+        <tr align="center" v-for="(brand ,i) in brands" >
+            <td>{{i+1}}</td>
+            <td>{{brand.brandName}}</td>
+            <td>{{brand.companyName}}</td>
+            <td>{{brand.description}}</td>
+            <td>{{brand.ordered}}</td>
+            <td v-if="brand.status == 1">{{qy}}</td>
+            <td v-if="brand.status == 0">{{jy}}</td>
+            <td><a href=\"#\">修改</a> <a href=\"#\">删除</a></td>
+        </tr>
+    </table>
+
+</div>
+</body>
+
+<script src="/js/vue.js"></script>
+<script>
+
+    new Vue({
+        el:"#app",
+
+        data(){
+            return{
+                username:"",
+                meg:"bbb",
+                url:"xxxxxx",
+                count:3,
+                num:0,
+                arr:["上海","北京","合肥"],
+                brands:[{"brandName":"三只松鼠","companyName":"三只松鼠股份有限公司","description":"好吃不上火","id":1,"ordered":"51","status":1},{"brandName":"华为","companyName":"华为技术有限公司","description":"华为致力于把数字世界带入每个家庭","id":2,"ordered":"1011","status":0},{"brandName":"小米","companyName":"小米科技有限公司","description":"are you ok","id":3,"ordered":"50","status":1},{"brandName":"美的空调","companyName":"美的科技","description":"好的好","id":4,"ordered":"1","status":0}],
+                qy:"启用",
+                jy:"禁用"
+            }
+        },
+        methods:{
+            show(){
+                this.meg="改变后";
+            },
+            change(){
+              this.num++;
+            }
+        },
+        mounted(){
+            alert("加载结束")
+        }
+    })
+</script>
+</html>

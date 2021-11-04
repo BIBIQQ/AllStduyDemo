@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/TomcatByJSP/TomcatByJSP.iml" filepath="$PROJECT_DIR$/TomcatByJSP/TomcatByJSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TomcatTest/TomcatTest.iml" filepath="$PROJECT_DIR$/TomcatTest/TomcatTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserByLoginOrSign/UserByLoginOrSign.iml" filepath="$PROJECT_DIR$/UserByLoginOrSign/UserByLoginOrSign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12filter/day12filter.iml" filepath="$PROJECT_DIR$/day12filter/day12filter.iml" />
     </modules>
   </component>
 </project>

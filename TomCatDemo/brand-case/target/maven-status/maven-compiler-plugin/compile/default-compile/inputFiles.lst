@@ -1,0 +1,10 @@
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\mapper\BrandMapper.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\pojo\Brand.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\util\SqlSessionFactoryUtils.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\web\UpdataBrandServlet.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\service\BrandService.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\web\FindBrandByValServlet.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\util\GetSqlSessionFactory.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\web\AddBrandServlet.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\web\FindAllBrandServlet.java
+E:\HEIMA\Demo\TomCatDemo\brand-case\src\main\java\com\itheima\web\RemoveBrandervlet.java
