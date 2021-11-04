@@ -9,114 +9,7 @@
     <bookmark url="file://$PROJECT_DIR$/TomcatTest/src/main/webapp/brand.html" line="77" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="475c77dc-0de3-442b-bdbe-47839f20f4d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/BrandServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brand-case/src/main/resources/com/ff/mapper/BrandsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResponseServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResponseServlet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResponseServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResponseServlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResponseServlet3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResponseServlet3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResponseServlet4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResponseServlet4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResquestServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResquestServlet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResquestServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResquestServlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResquestServlet3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResquestServlet3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResquestServlet4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResquestServlet4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/itheima/web/servlet/ResquestServlet5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToTomcat/src/main/java/com/ff/web/servlet/ResquestServlet5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/mapper/BrandMappr.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/mapper/BrandMappr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/pojo/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/pojo/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/pojo/Brands.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/pojo/Brands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/service/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/AddBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/AddBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/DelectBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/DelectBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/EleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/EleServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/FindAllBrandsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/FindAllBrandsServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/JsptextServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/JsptextServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/ModifyBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/ModifyBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/servlet/showByIdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/servlet/showByIdServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/itheima/until/GetSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/java/com/ff/until/GetSqlSessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/resources/com/itheima/mapper/BrandMappr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/resources/com/ff/mapper/BrandMappr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/el-demo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/el-demo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/jstl-foreach.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatByJSP/src/main/webapp/jstl-foreach.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/Service/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/Service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/filter/FilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/filter/FilterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/listener/ListenerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/listener/ListenerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/mapper/BrandMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/pojo/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/pojo/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/CheckCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/untils/CheckCodeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/untils/GetSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/untils/GetSqlSessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AJAXServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/AJAXServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AddBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/AddBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/AddUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/AgainLogsin.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/AgainLogsin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/CheckCodeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/CheckCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/CheckCodeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/FindAllBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/FindAllBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/LoginUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/LoginUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/ModifyBrandervlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/ModifyBrandervlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/RemoveBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/RemoveBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/SelectUserByIdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/SelectUserByIdServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/SeletBrandByIdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/SeletBrandByIdServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/cookie/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/cookie/AServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/cookie/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/cookie/BServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/session/SessionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/session/SessionDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/java/com/itheima/web/session/SessionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/java/com/ff/web/session/SessionDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/resources/com/itheima/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/resources/com/ff/mapper/BrandMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/resources/com/itheima/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/resources/com/ff/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomcatTest/src/test/java/com/itheima/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TomcatTest/src/test/java/com/ff/demo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/mapper/StuByAddOrShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/mapper/StuByAddOrShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/mapper/UserByLoginOrSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/mapper/UserByLoginOrSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/pojo/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/pojo/Stu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/servlet/DownloadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/servlet/DownloadServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/servlet/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/servlet/ShowStuServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/servlet/ShowStuServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/servlet/addServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/servlet/addServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/servlet/addStuServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/servlet/addStuServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/itheima/until/SqlSessionFactoryByUntil.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/java/com/ff/until/SqlSessionFactoryByUntil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/com/itheima/mapper/StuByAddOrShow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/com/ff/mapper/StuByAddOrShow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/com/itheima/mapper/UserByLoginOrSign.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/com/ff/mapper/UserByLoginOrSign.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserByLoginOrSign/src/main/webapp/stu/showStu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/UserByLoginOrSign/src/main/webapp/stu/showStu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/mapper/BrandsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/pojo/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/pojo/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/service/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/util/GetSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/util/GetSqlSessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/util/SqlSessionFactoryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/util/SqlSessionFactoryUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/AddBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/AddBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/BaseServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/BrandServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/FindAllBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/FindAllBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/FindBrandByValServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/FindBrandByValServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/RemoveBrandervlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/RemoveBrandervlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/java/com/itheima/web/UpdataBrandServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/UpdataBrandServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/resources/com/itheima/mapper/BrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/src/main/webapp/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/src/main/webapp/brand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/mapper/BrandMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/pojo/Brand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/service/BrandService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/util/GetSqlSessionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/util/SqlSessionFactoryUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/AddBrandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/BaseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/BrandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/FindAllBrandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/FindBrandByValServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/RemoveBrandervlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/classes/com/itheima/web/UpdataBrandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/tomcat/logs/access_log.2021-11-03" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/target/tomcat/logs/access_log.2021-11-03" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brand-case/target/tomcat/logs/access_log.2021-11-04" beforeDir="false" afterPath="$PROJECT_DIR$/brand-case/target/tomcat/logs/access_log.2021-11-04" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12filter/src/main/resources/com/itheima/mapper/LoginMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day12filter/src/main/resources/com/ff/mapper/LoginMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12filter/src/main/resources/com/itheima/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day12filter/src/main/resources/com/ff/mapper/UserMapper.xml" afterDir="false" />
-    </list>
+    <list default="true" id="475c77dc-0de3-442b-bdbe-47839f20f4d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/tomcatDemo/target/" />
     <ignored path="$PROJECT_DIR$/ff/target/" />
     <ignored path="$PROJECT_DIR$/TomcatTest/target/" />
@@ -224,97 +117,7 @@
     <favorites_list name="TomCatDemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/webapp/brand.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="294" column="24" lean-forward="true" selection-start-line="294" selection-start-column="24" selection-end-line="294" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#el-table#0;n#template#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/BaseServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/web/BrandServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="110" column="16" lean-forward="true" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#findAllBrandServlet#0;class#BrandServlet#0" />
-                <element signature="method#addBrandServlet#0;class#BrandServlet#0" />
-                <element signature="method#updataBrandServlet#0;class#BrandServlet#0" />
-                <element signature="method#removeBrandServlet#0;class#BrandServlet#0" />
-                <element signature="method#removeBrandByIdServlet#0;class#BrandServlet#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/resources/com/ff/mapper/BrandsMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/mapper/BrandsMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/service/impl/BrandServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#findAllBrands#0;class#BrandServiceImpl#0" />
-                <element signature="method#addBrand#0;class#BrandServiceImpl#0" />
-                <element signature="method#selectBrandById#0;class#BrandServiceImpl#0" />
-                <element signature="method#modifyBrand#0;class#BrandServiceImpl#0" />
-                <element signature="method#removeBrandById#0;class#BrandServiceImpl#0" />
-                <element signature="method#deleteBrandById#0;class#BrandServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/service/BrandService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -643,7 +446,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636021304796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636021825502" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/brand-case/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -824,12 +627,12 @@
       <workItem from="1635900590244" duration="35716000" />
       <workItem from="1635949895333" duration="4394000" />
       <workItem from="1635954737240" duration="67000" />
-      <workItem from="1635987782840" duration="24260000" />
+      <workItem from="1635987782840" duration="25027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283155000" />
+    <option name="totallyTimeSpent" value="283922000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -841,10 +644,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47407407" visible="true" weight="0.14293334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47407407" visible="true" weight="0.14293334" />
       <window_info id="Structure" order="1" sideWeight="0.50083196" side_tool="true" weight="0.20906667" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1304,7 +1106,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/brand-case/src/main/java/com/ff/service/impl/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="1077">
           <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
