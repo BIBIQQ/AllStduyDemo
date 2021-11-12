@@ -9,7 +9,9 @@
         <module name="brand-case" />
         <module name="day12filter" />
         <module name="JavaToTomcat" />
+        <module name="jsp_servlet_shop_maven" />
         <module name="KingOfGolyGame" />
+        <module name="OneShop" />
         <module name="TomcatByJSP" />
         <module name="TomcatTest" />
         <module name="UserByLoginOrSign" />
@@ -20,7 +22,9 @@
       <module name="day12filter" target="1.8" />
       <module name="ff" target="1.8" />
       <module name="JavaToTomcat" target="1.8" />
+      <module name="jsp_servlet_shop_maven" target="1.8" />
       <module name="KingOfGolyGame" target="1.8" />
+      <module name="OneShop" target="1.8" />
       <module name="TomcatByJSP" target="1.8" />
       <module name="TomcatDemo" target="1.8" />
       <module name="tomcatDemo" target="1.8" />

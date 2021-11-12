@@ -1,0 +1,11 @@
+com\ff\web\BaseServlet.class
+com\ff\web\BrandServlet2.class
+com\ff\config\SpringConfig.class
+com\ff\mapper\BrandsMapper.class
+com\ff\service\impl\SpringBrandServiceImpl.class
+com\ff\service\impl\BrandLogServiceImpl.class
+com\ff\pojo\PageBean.class
+com\ff\service\SpringBrandService.class
+com\ff\pojo\Brand.class
+com\ff\config\MybatisConfig.class
+com\ff\config\JdbcConfig.class

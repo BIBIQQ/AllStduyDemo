@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring02_Other/Spring02_Other.iml" filepath="$PROJECT_DIR$/Spring02_Other/Spring02_Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_AOP/Spring_AOP.iml" filepath="$PROJECT_DIR$/Spring_AOP/Spring_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_framework/Spring_framework.iml" filepath="$PROJECT_DIR$/Spring_framework/Spring_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restMvc/restMvc.iml" filepath="$PROJECT_DIR$/restMvc/restMvc.iml" />
+    </modules>
+  </component>
+</project>

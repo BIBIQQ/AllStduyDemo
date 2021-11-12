@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--导入坐标  spring-context 5.2.10 REEASE-->
+
+    <!--配置beans 方式一-->
+    <!--配置BookDao生命周期-->
+    <bean id="bookDao" class="com.ff.dao.impl.BookDaoImpl" init-method="init" destroy-method="destory"/>
+    <bean id="bookService" class="com.ff.Service.Impl.BookServiceImpl" name="bookService2 bookService3 bookService4">
+        <!--配置Dao和Service的关系-->
+        <!-- property 当前bean的属性
+         name属性表示配置哪一个具体的属性
+         ref表示参照哪一个bean-->
+        <property name="bookDao" ref="bookDao"/>
+    </bean>
+
+    <bean id="brandDao" class="com.ff.dao.impl.BrandDaoImpl" scope="prototype"/>
+    <bean id="brandService" class="com.ff.Service.Impl.BrandServiceImpl"/>
+
+
+    <!--方式二   静态工厂-->
+    <bean id="orderDao" class="com.ff.factory.OrderDaoFactory" factory-method="getOrderDao"/>
+
+    <!--方法三  实例化工厂实例化Bean-->
+    <bean id="userDaoFactory" class="com.ff.factory.UserDaoFactory"/>
+    <bean id="userDao" factory-method="getUserDao" factory-bean="userDaoFactory"/>
+
+    <!--方法四   使用FactoryBean实例化工厂-->
+    <bean id="userDaoFactoryBean" class="com.ff.factory.UserDaoFactoryBean"/>
+
+    <!--多种注入方式-->
+
+    <bean id="diDao" class="com.ff.dao.impl.DIDaoImpl">
+        <!--setter 引用注入-->
+        <property name="num" value="100"/>
+        <property name="str" value="注入"/>
+        <!--构造方法 引入注入-->
+        <!--
+        name 根据形参名称
+        type 根据参数数据类型
+        index 根据形参的排序
+        -->
+       <!-- <constructor-arg name="num" value="100" />
+        <constructor-arg name="str" value="引入注入。。" />-->
+    </bean>
+    <bean id="diService" class="com.ff.Service.Impl.DIServiceImpl">
+        <!--setter注入-->
+        <!--<property name="diDao" ref="diDao"/>-->
+        <!--构造方法 简单注入-->
+        <constructor-arg name="diDao" ref="diDao"/>
+    </bean>
+
+
+</beans>

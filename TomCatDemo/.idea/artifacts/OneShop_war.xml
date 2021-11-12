@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OneShop:war">
+    <output-path>$PROJECT_DIR$/OneShop/target</output-path>
+    <root id="archive" name="OneShop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="OneShop:war exploded" />
+    </root>
+  </artifact>
+</component>

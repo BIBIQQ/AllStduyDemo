@@ -1,0 +1,16 @@
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\pojo\Brand.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\config\SpringConfig.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\service\impl\SpringBrandServiceImpl.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\service\impl\BrandLogServiceImpl.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\Aop\LogAdvice.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\service\LogService.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\pojo\BrandLog.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\pojo\PageBean.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\mapper\LogMapper.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\web\BaseServlet.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\App.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\config\MybatisConfig.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\web\BrandServlet2.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\mapper\BrandsMapper.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\service\SpringBrandService.java
+E:\HEIMA\Demo\Spring\brand-case\src\main\java\com\ff\config\JdbcConfig.java

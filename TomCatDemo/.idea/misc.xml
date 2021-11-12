@@ -4,7 +4,9 @@
     <file type="web" url="file://$PROJECT_DIR$/brand-case" />
     <file type="web" url="file://$PROJECT_DIR$/day12filter" />
     <file type="web" url="file://$PROJECT_DIR$/JavaToTomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp_servlet_shop_maven-master" />
     <file type="web" url="file://$PROJECT_DIR$/KingOfGolyGame" />
+    <file type="web" url="file://$PROJECT_DIR$/OneShop" />
     <file type="web" url="file://$PROJECT_DIR$/TomcatByJSP" />
     <file type="web" url="file://$PROJECT_DIR$/tomcatDemo" />
     <file type="web" url="file://$PROJECT_DIR$/TomcatTest" />
@@ -23,6 +25,8 @@
         <option value="$PROJECT_DIR$/KingOfGolyGame/pom.xml" />
         <option value="$PROJECT_DIR$/day12filter/pom.xml" />
         <option value="$PROJECT_DIR$/brand-case/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp_servlet_shop_maven-master/pom.xml" />
+        <option value="$PROJECT_DIR$/OneShop/pom.xml" />
       </list>
     </option>
   </component>

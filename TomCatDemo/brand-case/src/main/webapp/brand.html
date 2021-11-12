@@ -223,6 +223,7 @@
                 this.indexUp();
             /*    this.currentPage=1;*/
 
+
             },
             //修改的方法
             updataBrand() {
@@ -395,12 +396,16 @@
                     that.tableData = resp.data.rows;
                     //设置总记录数
                     that.totalCount = resp.data.totalCount;
+
+                    // that.size = resp.data.length;
                 })
             }
 
         },
         data() {
             return {
+                //保存当前查询的条数
+                size:0,
                 //被选中的id数组
                 selectedIds: [],
                 // 当前页码
