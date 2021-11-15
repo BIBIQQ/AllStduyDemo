@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--mapper对应接口限定名-->
+<mapper namespace="com.ff.dao.BrandsDao">
+
+    <!--批量删除-->
+    <delete id="deleteBrandById">
+        delete from tb_brand where id in
+        <foreach collection="ids" item="id" separator="," open="(" close=")">
+            #{id}
+        </foreach>
+    </delete>
+
+
+    <!--动态查询 分页-->
+    <select id="selectBrandByPageAndCoundition" resultType="com.ff.pojo.Brand">
+        select * from tb_brand
+        <where>
+            <if test="brand.brandName != null and brand.brandName != '' ">
+                and brandName like #{brand.brandName}
+            </if>
+            <if test="brand.companyName != null and brand.companyName != '' ">
+                and companyName like #{brand.companyName}
+            </if>
+            <if test="brand.status != null ">
+                and status = #{brand.status}
+            </if>
+        </where>
+        limit #{begin},#{size}
+    </select>
+
+    <!--多条件查询 计数-->
+    <select id="selectByCounditionTotalCount" resultType="java.lang.Integer">
+        select count(*) from tb_brand
+        <where>
+            <if test="brand.brandName != null and brand.brandName != '' ">
+                and brandName like #{brand.brandName}
+            </if>
+            <if test="brand.companyName != null and brand.companyName != '' ">
+                and companyName like #{brand.companyName}
+            </if>
+            <if test="brand.status != null ">
+                and status = #{brand.status}
+            </if>
+        </where>
+
+    </select>
+
+
+
+</mapper>
+
+
+
+

@@ -2,6 +2,9 @@ package Day10.pack.edu.info.manager.dao;
 
 import Day10.pack.edu.info.manager.domain.Student;
 
+import java.util.Scanner;
+import java.util.SplittableRandom;
+
 /**
  * @author FF
  * @date 2021/9/13

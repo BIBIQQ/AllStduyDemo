@@ -1,6 +1,7 @@
 package Day10.pack.edu.info.manager.controller;
 
 import Day10.pack.edu.info.manager.domain.Student;
+import Day10.pack.edu.info.manager.service.StudentServic;
 
 import java.util.Scanner;
 

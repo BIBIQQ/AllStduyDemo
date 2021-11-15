@@ -1,5 +1,7 @@
 package Day08;
 
+import java.util.Scanner;
+
 /**
  * @author FF
  * @date 2021/9/9
