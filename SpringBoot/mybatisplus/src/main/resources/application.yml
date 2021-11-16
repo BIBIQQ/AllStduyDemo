@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/tomcatdao?serverTimezone=UTC
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  #    隐藏头部图片
+  main:
+    banner-mode: off
+
+#开启mp的日志（输出到控制台）
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  #    隐藏mybatisplus头部图片
+  global-config:
+    banner: false
+    db-config:
+      #全局配置    id自动生成策略  雪花算法  保障 Id唯一
+      id-type: assign_id
+      logic-delete-field: deleted #所有表中，代表裸机删除的列名，所有表都一样
+      logic-not-delete-value: 0   #没有删
+      logic-delete-value: 1   #删除了
+

@@ -11,6 +11,7 @@ import java.util.Arrays;
  * @TIME:17:56
  */
 @Component
+//默认到配置文件下，寻找对象
 @ConfigurationProperties(prefix = "enterprise")
 public class Enterprise {
 

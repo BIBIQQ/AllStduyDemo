@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/springboot_02/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_03/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_tb_book/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_generator/pom.xml" />
       </list>
     </option>
   </component>
