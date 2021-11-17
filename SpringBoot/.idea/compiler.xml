@@ -8,31 +8,31 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_01" />
-        <module name="springboot_03" />
         <module name="springboot_02" />
         <module name="mybatis_generator" />
         <module name="mybatisplus" />
         <module name="springboot_tb_book" />
+        <module name="brand_case" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="brand_case" target="1.8" />
       <module name="mybatis_generator" target="1.8" />
       <module name="mybatisplus" target="1.8" />
       <module name="spring_mybatisplus" target="1.8" />
       <module name="springboot_01" target="1.8" />
       <module name="springboot_02" target="1.8" />
-      <module name="springboot_03" target="1.8" />
       <module name="springboot_tb_book" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="brand_case" options="-parameters" />
       <module name="mybatis_generator" options="-parameters" />
       <module name="mybatisplus" options="-parameters" />
       <module name="spring_mybatisplus" options="-parameters" />
       <module name="springboot_01" options="-parameters" />
       <module name="springboot_02" options="-parameters" />
-      <module name="springboot_03" options="-parameters" />
       <module name="springboot_tb_book" options="-parameters" />
     </option>
   </component>
