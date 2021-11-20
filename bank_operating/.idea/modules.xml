@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/baidu_login/baidu_login.iml" filepath="$PROJECT_DIR$/baidu_login/baidu_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/bank_operational/bank_operational.iml" filepath="$PROJECT_DIR$/bank_operational/bank_operational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cutknife/cutknife.iml" filepath="$PROJECT_DIR$/cutknife/cutknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_search/news_search.iml" filepath="$PROJECT_DIR$/news_search/news_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/news_top10/news_top10.iml" filepath="$PROJECT_DIR$/news_top10/news_top10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puti_shopping_cat/puti_shopping_cat.iml" filepath="$PROJECT_DIR$/puti_shopping_cat/puti_shopping_cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puti_take_out/puti_take_out.iml" filepath="$PROJECT_DIR$/puti_take_out/puti_take_out.iml" />
       <module fileurl="file://$PROJECT_DIR$/user_login/user_login.iml" filepath="$PROJECT_DIR$/user_login/user_login.iml" />
     </modules>
   </component>

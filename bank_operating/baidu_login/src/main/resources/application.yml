@@ -1,0 +1,12 @@
+server:
+  port: 80
+spring:
+  application:
+    name: baidu_login
+  redis:
+    host: localhost
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/spring_dao?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: root
